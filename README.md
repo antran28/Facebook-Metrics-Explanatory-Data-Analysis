@@ -11,8 +11,6 @@ in a 12-month period, this report evaluates 500 posts from a renown cosmetic bra
 indicates that social media platform has positive influence on increasing brand engagement and
 brand awareness.
 
-View source of data: [here](https://www.kaggle.com/datasets/team-ai/spam-text-message-classification)
-
 The project is structured as follows:
 
 - Data Importing
