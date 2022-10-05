@@ -1,6 +1,6 @@
 # Facebook-Metrics-Explanatory-Data-Analysis
 
-![Facebook-Marketing](https://user-images.githubusercontent.com/102011433/194172212-19f50ac5-3cef-4e8c-a714-a47466d7e33f.jpg)
+![469](https://user-images.githubusercontent.com/102011433/194172647-467088ef-6bc5-428c-aa1b-984e4f671175.jpg)
 
 ## ✨ Introduction
 
