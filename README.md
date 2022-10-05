@@ -1,6 +1,6 @@
 # Facebook-Metrics-Explanatory-Data-Analysis
 
-![Optimize-Your-Facebook-Campaigns-By-Tracking-These-5-Metrics-1](https://user-images.githubusercontent.com/102011433/193162695-b73a974d-d661-4479-8211-bd0e11947de3.jpg)
+![Facebook-Marketing](https://user-images.githubusercontent.com/102011433/194172212-19f50ac5-3cef-4e8c-a714-a47466d7e33f.jpg)
 
 ## ✨ Introduction
 
