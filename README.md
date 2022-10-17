@@ -2,7 +2,7 @@
 
 ![469](https://user-images.githubusercontent.com/102011433/194172647-467088ef-6bc5-428c-aa1b-984e4f671175.jpg)
 
-## ✨ Introduction
+## ✨ Introduction:
 
 This project utilizes exploratory data analysis model using Python programming
 language in investing the impact of social media on brand building and customer engagement.
@@ -35,7 +35,7 @@ lifetime post customers
 - Defining a causal relation between the use of social media and customer relationship
 management by evaluating lifetime post consumers (LPC) and engagement ratio
 
-## ✨ View my code here
+## ✨ View my code here:
 
 [Google Colab](https://colab.research.google.com/drive/1nlNerXMrPCs5nMGLGFCwJ857LLNcDTOj?usp=sharing)
 
